@@ -29,7 +29,7 @@ function incrementVariable() {
 
 do{
 console.log(i,"I run once regardless.");}
-while(incrementVariable() < 9);
+while(incrementVariable() <= num);
 }
 console.log( "I run once regardless")
 }
