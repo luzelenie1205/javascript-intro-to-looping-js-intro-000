@@ -29,6 +29,6 @@ function incrementVariable() {
 
 do{
 console.log("I run once regardless.");}
-while(false);
+while(incrementVariable() =< num));
 }
 }
