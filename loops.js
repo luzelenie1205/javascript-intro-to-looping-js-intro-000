@@ -31,5 +31,4 @@ do{
 console.log(i,"I run once regardless.");}
 while(incrementVariable() <= num);
 }
-console.log( "I run once regardless")
 }
