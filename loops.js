@@ -28,7 +28,7 @@ function incrementVariable() {
 }
 
 do{
-console.log(i,"I run once regardless.");}
+console.log("I run once regardless.");}
 while(false;
 }
 }
