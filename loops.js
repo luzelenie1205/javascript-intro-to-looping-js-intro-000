@@ -20,7 +20,7 @@ return 'done'
 
 
 function doWhileLoop(i){
-let i=0
+i=0
 {
 function incrementVariable() {
   i = i + 1;
