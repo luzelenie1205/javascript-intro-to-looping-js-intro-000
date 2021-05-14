@@ -19,7 +19,7 @@ return 'done'
 }
 
 
-function doWhileLoop(num){
+function doWhileLoop(i){
 let i=0
 {
 function incrementVariable() {
